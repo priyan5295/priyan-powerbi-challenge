@@ -1,6 +1,4 @@
-### Hi, I'm Priyan 👋
-
-**Full name:** Sathiya Priyan
+### Hi, I'm Sathiya Priyan 👋
 
 🔍 Transitioning into Data Analytics  
 📊 Learning Power BI, Excel, and data modeling  
